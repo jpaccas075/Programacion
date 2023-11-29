@@ -1,13 +1,11 @@
 package prog.unidad04.actividad402.ejercicio06;
 
-import prog.unidad04.actividad402.ejercicio06.Punto;
-
 /**
  * Clase que representa a un círculo
  */
 public class Circulo {
 	// Atributos constantes
-	private static final double PI = 3.1415;
+	private static final double PI = 3.141592653589793;
 	
 	// Atributos
 	private double radio;
